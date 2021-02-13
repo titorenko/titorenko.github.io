@@ -1,5 +1,5 @@
 ---
-title: Welcome Everyone
+title: Welcome
 layout: default
 ---
 
